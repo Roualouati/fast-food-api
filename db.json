@@ -1,0 +1,95 @@
+{
+    "fast_food_items": [
+      {
+        "id": 0,
+        "name": "Lablabi",
+        "description": "A hearty and spicy chickpea soup, typically served with bread.",
+        "ingredients": ["Chickpeas", "Bread", "Harissa", "Garlic", "Cumin", "Olive oil"],
+        "preparation_time": "20 minutes",
+        "price_range": "2-4 TND",
+        "popularity_rating": 4.8
+      },
+      {
+        "id": 1,
+        "name": "Kafteji",
+        "description": "A mixed vegetable dish fried and served with eggs and spices.",
+        "ingredients": ["Potatoes", "Pumpkin", "Eggplant", "Peppers", "Eggs", "Cumin", "Olive oil"],
+        "preparation_time": "30 minutes",
+        "price_range": "3-5 TND",
+        "popularity_rating": 4.6
+      },
+      {
+        "id": 2,
+        "name": "Tunisian Sandwich",
+        "description": "A baguette filled with tuna, eggs, and harissa for a spicy kick.",
+        "ingredients": ["Baguette", "Tuna", "Hard-boiled eggs", "Harissa", "Olives", "Capers"],
+        "preparation_time": "10 minutes",
+        "price_range": "3-6 TND",
+        "popularity_rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Brik",
+        "description": "A crispy pastry filled with egg, tuna, and parsley, deep-fried to perfection.",
+        "ingredients": ["Warka pastry", "Eggs", "Tuna", "Parsley", "Cheese", "Oil for frying"],
+        "preparation_time": "15 minutes",
+        "price_range": "2-4 TND",
+        "popularity_rating": 4.9
+      },
+      {
+        "id": 4,
+        "name": "Mloukhia Sandwich",
+        "description": "A sandwich filled with a rich and flavorful beef stew made with Mloukhia powder.",
+        "ingredients": ["Bread", "Beef", "Mloukhia powder", "Olive oil", "Garlic", "Spices"],
+        "preparation_time": "2 hours",
+        "price_range": "5-8 TND",
+        "popularity_rating": 4.5
+      },
+      {
+        "id": 5,
+        "name": "Fricassee",
+        "description": "A small fried sandwich filled with tuna, eggs, and olives.",
+        "ingredients": ["Fried bread", "Tuna", "Hard-boiled eggs", "Olives", "Potatoes", "Harissa"],
+        "preparation_time": "25 minutes",
+        "price_range": "1-3 TND",
+        "popularity_rating": 4.8
+      },
+      {
+        "id": 6,
+        "name": "Chapati",
+        "description": "A flatbread sandwich filled with eggs, cheese, and harissa.",
+        "ingredients": ["Flatbread", "Eggs", "Cheese", "Harissa", "Tuna", "Tomatoes"],
+        "preparation_time": "15 minutes",
+        "price_range": "2-5 TND",
+        "popularity_rating": 4.6
+      },
+      {
+        "id": 7,
+        "name": "Makloub",
+        "description": "A large folded sandwich made with flatbread, meat, and vegetables.",
+        "ingredients": ["Flatbread", "Chicken or beef", "Cheese", "Harissa", "Lettuce", "Tomatoes"],
+        "preparation_time": "20 minutes",
+        "price_range": "4-7 TND",
+        "popularity_rating": 4.7
+      },
+      {
+        "id": 8,
+        "name": "Bambalouni",
+        "description": "A sweet Tunisian donut, fried and sprinkled with sugar.",
+        "ingredients": ["Flour", "Sugar", "Yeast", "Oil for frying"],
+        "preparation_time": "30 minutes",
+        "price_range": "1-2 TND",
+        "popularity_rating": 4.9
+      },
+      {
+        "id": 9,
+        "name": "Slata Mechouia",
+        "description": "A grilled salad made with peppers, tomatoes, and onions, served with bread.",
+        "ingredients": ["Grilled peppers", "Tomatoes", "Onions", "Garlic", "Olive oil", "Tuna", "Eggs"],
+        "preparation_time": "40 minutes",
+        "price_range": "3-5 TND",
+        "popularity_rating": 4.5
+      }
+    ]
+  }
+  
